@@ -7,6 +7,7 @@ import {
   DiNodejs,
   DiMongodb,
   DiGit,
+  DiAngularSimple
 } from "react-icons/di";
 import {
   SiRedis,
@@ -20,6 +21,9 @@ import { TbBrandGolang } from "react-icons/tb";
 function Techstack() {
   return (
     <Row style={{ justifyContent: "center", paddingBottom: "50px" }}>
+       <Col xs={4} md={2} className="tech-icons">
+        <DiAngularSimple/>
+      </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiJavascript1 />
       </Col>
