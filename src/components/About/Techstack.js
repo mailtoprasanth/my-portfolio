@@ -16,6 +16,7 @@ import {
   SiNextdotjs,
   SiSolidity,
   SiPostgresql,
+  SiDocker
 } from "react-icons/si";
 import { TbBrandGolang } from "react-icons/tb";
 
@@ -48,6 +49,9 @@ function Techstack() {
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiGithubFull />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiDocker />
       </Col>
     </Row>
   );
