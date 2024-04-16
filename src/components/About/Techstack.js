@@ -7,7 +7,8 @@ import {
   DiNodejs,
   DiMongodb,
   DiGit,
-  DiAngularSimple
+  DiAngularSimple,
+  DiGithubFull
 } from "react-icons/di";
 import {
   SiRedis,
@@ -44,6 +45,9 @@ function Techstack() {
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiFirebase />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <DiGithubFull />
       </Col>
     </Row>
   );
