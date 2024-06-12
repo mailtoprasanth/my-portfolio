@@ -12,6 +12,7 @@
 
 </center>
 
+![Black and White Creative Profile Information LinkedIn Article Cover Image](https://github.com/mailtoprasanth/my-portfolio/assets/166957588/02f8346a-6a1e-4671-9be7-cacb0141e223)
 
 You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to . Thanks!
 
